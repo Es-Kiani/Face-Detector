@@ -28,7 +28,7 @@
 
 
 
-###  :toolbox: Requirements
+###  :toolbox: Requirements:
 - opencv-python
 - tk-tools
 - Pillow
@@ -41,7 +41,7 @@ pip 3 install -r /{path}/requirements.txt
 
 ### 	:satellite:    Usage: 
 
-Run the ```main.py``` to use the app. After that in opened window click on _Start Detecting_ button to start capturing image from your webcam. (If you use IP webcam or have more than one webcam on your pc, you can change the webcan_url in the main.py script.)
+Run the ```main.py``` to use the app. After that in opened window click on _Start Detecting_ button to start capturing image from your webcam. (If you use IP webcam or have more than one webcam on your pc, you can change the webcam_url in the main.py script.)
 
 
 
